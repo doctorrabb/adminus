@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import requests, sys, time
 from colorama import Fore, init
 
