@@ -25,7 +25,7 @@ def main ():
 	Admin-panel, content search
 
 	{2}[ version 0.3 ]{1}
-	{2}[ Coded by DOCTOR_RABB ]{1}	
+	{2}[ Coded by Korra   ]{1}	
 
 	'''.format (Fore.MAGENTA, Fore.RESET, Fore.CYAN)
 	with open (sys.argv [1] if len (sys.argv) == 3 else 'adminlist', 'r') as adm:
